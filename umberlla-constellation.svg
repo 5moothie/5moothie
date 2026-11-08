@@ -55,7 +55,7 @@
       31%, 100% { opacity: 1; fill: #fff9c4; r: 3.5; }
     }
 
-    /* Node 2: Outer canopy & Upper shaft - Hit at 36.66% (5.5s). Matches bg dimming up to ~0.58 opacity */
+    /* Node 2: Outer canopy and Upper shaft - Hit at 36.66% (5.5s). Matches bg dimming up to ~0.58 opacity */
     .n2 { animation-name: node2Anim; }
     @keyframes node2Anim {
       0% { opacity: 0; fill: #fce570; r: 2; }
