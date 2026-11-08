@@ -15,11 +15,10 @@
         <p style="margin: 0 0 32px; color: #c9d1d9; font-size: 16px;">Low-Level · Embedded · C/C++</p>
         <p style="margin: 0; color: #8b949e; font-size: 14px;">Student @ Faculty of Computer Science</p>
       </td>
-      <td width="40%" align="center" style="padding: 40px 6%; border: 0; vertical-align: middle;">
+      <td width="40%" align="center" style="padding: 40px 80px; border: 0; vertical-align: middle;">
         <img src="./umberlla-constellation.svg" alt="Animated Umbrella Constellation" width="350" />
       </td>
     </tr>
-    W
     <tr>
       <td colspan="2" align="left" style="padding: 40px 8%; border: 0; border-top: 1px solid #30363d; line-height: 2.0;">
         <p style="margin: 0 0 20px; color: #e6edf3; font-size: 17px;">Hi! I'm a Computer Science student at AGH University of Krakow.</p>
