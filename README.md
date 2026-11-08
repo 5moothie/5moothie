@@ -9,7 +9,7 @@
     </td>
     <td width="40%" align="center" style="border: none;">
       <!-- This references the SVG file you created in Step 1 -->
-      <img src="./umbrella-constellation.svg" alt="Animated Umbrella Constellation" width="100%" />
+      <img src="./umberlla-constellation.svg" alt="Animated Umbrella Constellation" width="100%" />
     </td>
   </tr>
 </table>
