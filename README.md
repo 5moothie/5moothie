@@ -6,12 +6,6 @@
       </td>
       <td width="40%" align="right" style="padding: 24px 32px; border: 0; border-bottom: 1px solid #30363d;">
         $\textsf{\color{#f0c75e}AGH Computer Science Student}$
-      <td width="60%" align="left" style="padding: 24px 32px; border: 0; border-bottom: 1px solid #30363d;">
-        $\color{#f0c75e}{●}$   <span style="color: #8b949e;">5moothie / README.md</span>
-      </td>
-      <td width="40%" align="right" style="padding: 24px 32px; border: 0; border-bottom: 1px solid #30363d;">
-        $\textsf{\color{#f0c75e}AGH Computer Science Student}$
-      </td>
     </tr>
     <tr>
       <td width="60%" align="left" style="padding: 70px 8%; border: 0; border-right: 1px dashed #30363d; vertical-align: middle;">
@@ -25,8 +19,7 @@
         <img src="./umberlla-constellation.svg" alt="Animated Umbrella Constellation" width="350" />
       </td>
     </tr>
-    
-    <!-- BOTTOM FOOTER -->
+    W
     <tr>
       <td colspan="2" align="left" style="padding: 40px 8%; border: 0; border-top: 1px solid #30363d; line-height: 2.0;">
         <p style="margin: 0 0 20px; color: #e6edf3; font-size: 17px;">Hi! I'm a Computer Science student at AGH University of Krakow.</p>
